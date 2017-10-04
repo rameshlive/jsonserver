@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "test",
+      "author": "tgfdgfdgfg",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "author": "tgfdgfdgfg",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "author": "tgfdgfdgfg",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
